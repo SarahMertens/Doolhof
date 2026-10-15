@@ -13,6 +13,8 @@ the enemy behaviour and even the sound effects are in this repository.
 | --- | --- |
 | ![A light flare shows the whole level](docs/flare.png) | ![The level menu](docs/menu.png) |
 
+![Doolhof gameplay: darkness, a light flare and a hunter](docs/doolhof-gameplay.gif)
+
 The game is in Dutch; the code and documentation are in English.
 
 ## How it started
